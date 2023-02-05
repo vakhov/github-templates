@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Bug Report best practices
+    url: https://birdeatsbug.com/blog/bug-report-template#rec151185210
+    about: Как и зачем детально описывать багрепорты
+  - name: GitHub Templates
+    url: https://docs.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates
+    about: Документация GitHub по шаблонам
